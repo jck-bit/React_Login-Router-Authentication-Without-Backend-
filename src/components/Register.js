@@ -151,7 +151,7 @@ const Register = () => {
                     >Sign Up</button>   
         </form>
           <p>
-                        Already registered?<br />
+                        Already registered?<br/>
                         <span className="line">
                             {/* put router link here */}
                             <a href="#">Sign In</a>
